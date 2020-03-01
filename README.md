@@ -34,3 +34,8 @@ This will start and run your complete app. You can access the app at : http://0.
 5. You can also bring the services down and remove the containers using:
 
 ```docker-compose down --volumes ```
+
+
+### Demo:
+
+A demo video of how to use the app has been added to the repo ![here](https://github.com/srishtis/assignment2-ss1078/blob/master/assignment2_ss1078.mp4)
