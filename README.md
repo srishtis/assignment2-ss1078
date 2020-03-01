@@ -38,4 +38,4 @@ This will start and run your complete app. You can access the app at : http://0.
 
 ### Demo:
 
-A demo video of how to use the app has been added to the repo ![here](https://github.com/srishtis/assignment2-ss1078/blob/master/assignment2_ss1078.mp4)
+A demo video of how to use the app has been added to the repo [![here](https://img.youtube.com/vi/AiZT15TO7oE/0.jpg)](https://www.youtube.com/watch?v=AiZT15TO7oE)
