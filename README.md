@@ -1,5 +1,6 @@
 # assignment2-ss1078
 This is for assignment 2 for ece 590
+(FYI: Another version without docker-compose for the same app can be found [here](https://github.com/srishtis/assignment2-ss1078-conventional))
 
 
 ## What does the app do?
